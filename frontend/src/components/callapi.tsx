@@ -1,4 +1,4 @@
-const API_ENDPOINT = "13.125.11.249:4000";
+const API_ENDPOINT = "http://13.125.11.249:4000";
 
 
 
