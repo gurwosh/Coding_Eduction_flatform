@@ -83,7 +83,7 @@ const Cnnsolve =  (props:{solvedata:any}) =>{
             answerlist.push(answer[key])
         }
         for(let i=0; i<anscout;i++){
-          if(thirdData[thirdData.length-1-i]==answerlist[answerlist.length-1-i]){
+          if(thirdData[thirdData.length-1-i]==answerlist[i]){
             savedata['predpoint'] = savedata['predpoint']+1
             setfinalPoint(point+1)
           }
