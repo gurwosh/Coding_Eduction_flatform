@@ -1,5 +1,4 @@
-export const API_ENDPOINT = //"http://localhost:4000"
-  "13.125.11.249:4000";
+export const API_ENDPOINT = "13.125.11.249:4000";
 
 
 

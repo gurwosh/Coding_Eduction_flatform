@@ -79,7 +79,7 @@ const Studentrigist =()=>{
                 else{
                     alert('학생등록이 완료되었습니다!')
                     setCheck(false);
-                    callapi()
+                    callapi();
                 }
                 })
         }
