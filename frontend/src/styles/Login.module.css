@@ -1,0 +1,31 @@
+.loginmain{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.logininput{
+    width: 40%;
+    height: 60px;
+    border: solid 1px gray;
+    border-radius: 10px;
+}
+
+.loginsend{
+    width: 40%;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+
+
+}
+
+.loginsend:hover{
+    background-color: rgb(164, 192, 233);
+}
+
+.textzone{
+    font-size: 20px;
+    padding-bottom: 10%;
+}

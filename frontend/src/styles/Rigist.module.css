@@ -1,0 +1,95 @@
+.rigistlayout{
+    width:100%;
+    height:100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(45%, auto));
+    grid-template-rows: 45%;
+    text-align: center;
+    align-items: center;
+
+}
+
+.rigistlayout  a{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 30%;
+    height: 80%;
+    box-shadow: 2px 2px rgb(226, 226, 226);
+
+
+}
+
+.tablebtn{
+    border:none;
+    background-color: rgb(125, 19, 224);
+    color:white;
+    width:10%;
+    height: 30px;
+    margin-left: 10px;
+}
+
+.headzone{
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 5%;
+}
+
+.headinput{
+    width: 25%;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px rgb(226, 226, 226);
+    margin: 15px;
+
+}
+
+.tablebtnzone{
+    text-align: center;
+    margin: 20px;
+}
+
+
+.rigistmain{
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    font-size: 15px;
+}
+
+.rigisttable{
+    text-align: center;
+}
+
+
+
+
+.input{
+    border: none;
+    width: 20%;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 5px;
+    box-shadow: 2px 2px rgb(226, 226, 226);
+    font-size: 20px;
+
+}
+
+.rigistbtn{
+    border: none;
+    width: 40%;
+    height: 60px;
+    background-color: aquamarine;
+}
+
+.btnzone{
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.rigistbtn:hover{
+    background-color: rgb(3, 245, 164);
+
+}

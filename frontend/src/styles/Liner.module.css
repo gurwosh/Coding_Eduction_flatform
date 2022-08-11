@@ -1,0 +1,106 @@
+.linermain{
+    width: 100%;
+    height: 100%;
+    font-size: 20px;
+    margin-left: 3%;
+}
+
+
+.result{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 10%;
+}
+
+.select{
+    border: none;
+    height: 30px;
+    box-shadow: 2px 2px 2px 2px rgb(226, 226, 226);
+    margin-left: 3px;
+}
+
+.linerbtn{
+    background-color: rgb(125, 19, 224);
+    color:white;
+    width:15%;
+    height: 30px;
+    margin-left: 10px;
+    border: none
+}
+
+.linerbtn:hover{
+    background-color: rgb(221, 189, 252);
+
+}
+
+
+.subbtn{
+    background-color:brown;
+    border: none;
+    width: 20%;
+    height: 30px;
+    color: white;
+
+}
+
+.titlezone{
+    height: 20%;
+}
+
+.tablezone{
+    width: 80%;
+    border:1px solid gray;
+    height: 30%;
+    overflow: auto;
+    
+}
+
+.table{
+    width: 100%;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+
+.td{
+    background-color: white;
+
+}
+.solvezone{
+    overflow: auto;
+    height: 50%;
+}
+
+.canvaszone{
+    height: 100%;
+    position: relative;
+}
+
+
+
+
+.LowerCanvas{
+    width: 800px;
+    height: 250px;
+    background-color:whitesmoke;
+    border: solid 5px rgb(0, 195, 221);
+    border-radius: 10px;
+    position: absolute;
+    top: 30px;
+
+}
+
+.UpCanvas{
+    width: 800px;
+    height: 250px;
+    position: absolute;
+    top: 30px;
+
+}
+
+.writezone{
+    width: 60%;
+    height: 60px;
+    margin-top: 20px;
+}
